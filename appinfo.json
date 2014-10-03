@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jan.wiggers@gmail.com",
+    "longName": "PVPebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "PVPebble",
+    "uuid": "60ebeea8-83bf-412d-b8da-11bf2ed85d96",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
